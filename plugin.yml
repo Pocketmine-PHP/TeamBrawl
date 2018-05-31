@@ -1,0 +1,19 @@
+name: TeamBrawl
+main: zBearchenPlayz\TeamBrawl\TeamBrawl
+author: zBearchenPlayz
+version: 2.3.0
+api: [3.0.0-ALPHA12]
+
+commands:
+    tb:
+        usage: /tb <leave-make>
+        description: TeamBrawl-Commands
+    lang:
+        usage: /lang <en>
+        description: TeamBrawl-English-Lang
+    ranktb:
+        usage: /ranktb
+        description: TeamBrawl-Commands
+    tbstart:
+        usage: /tbstart
+        description: TeamBrawl-Force start
